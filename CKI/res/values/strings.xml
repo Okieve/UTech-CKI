@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CKI</string>
+    <string name="President">President</string>
+    <string name="secre">Secretary</string>
+    <string name="Trea">Treasurer</string>
+    <string name="Bull">Bulletin Editor</string>
+    <string name="fac">Faculty Advisor</string>
+    <string name="dir">Directors</string>
+    <string name="kiw">Kiwanis Advisor</string>
+    
+    <string name="Contact">Any Queries Contact Me @
+        okievemeikle@gmail.com/ 1876-872-1497 </string>
+    <string name="title_section1">Club Info</string>
+    <string name="title_section2">Club Photo</string>
+    <string name="title_section3">Meetings</string>
+    <string name="hello_world">I pledge to uphold the Objects of Circle
+K International, to foster compassion and
+goodwill toward others through service and
+leadership, to develop my abilities and the
+abilities of all people, and to dedicate myself
+to the realization of mankind’s potential.</string>
+    <string name="ideals">        To provide through Circle K clubs a practical means 
+to form enduring friendships, to render altruistic service, 
+and to build better communities; and. To cooperate 
+in creating and maintaining that sound public opinion 
+and high idealism, which make possible the increase of 
+righteousness, justice, patriotism and goodwill.</string>
+    <string name="motto">Live to Serve,Love to Serve!</string>
+    <string name="loc">Main Campus</string>
+    <string name="tim1">Tues at 4:00</string>
+    <string name="tim3">Tues at 6:30</string>
+    <string name="tim4">Mon at 3:00</string>
+    <string name="tim2">Wed at 4:00</string>
+    <string name="day">Thurs at 3:00</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo">Photo</string>
+    <string name="title_activity_meeting">Meeting</string>
+    <string name="title_activity_club_info">ClubInfo</string>
+    <string name="title_activity_hierarchy">Hierarchy</string>
+    <string name="title_activity_president">President</string>
+
+</resources>
